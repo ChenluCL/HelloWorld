@@ -21,7 +21,6 @@ function hua(n) {
         b = "";
     }
 }
-number;
-{
+function getLine(line) {
     return line;
 }

@@ -25,7 +25,6 @@ function hua(n : number) : void{
     }
 }
 
-function getLine(line : number);
-number{
+function getLine(line : number): number{
     return line;
 }
